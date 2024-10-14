@@ -13,7 +13,7 @@ header>span:hover{
     background-color: #DEE5D4;
 }
 .title{
-    margin-right: 850px;
+    margin-right: 800px;
 }
 .header-items{
     margin-right: 12px;
@@ -34,13 +34,13 @@ header>span:hover{
 
 /* */
 .section{
-    margin: 40px 30px 0px 30px;
+    margin: 40px 20px 0px 30px;
 }
 .projects{
     margin-top: 30px;
 }
 .row-1{
-    margin: 0px 40px 20px 40px;
+    margin: 0px 30px 20px 40px;
 }
 .project{
     width: 260px;
